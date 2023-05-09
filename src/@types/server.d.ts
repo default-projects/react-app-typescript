@@ -5,3 +5,7 @@ declare module "*.jpg";
 declare module "*.webp";
 
 declare module 'react-notifications';
+
+interface ComPropsObject {
+  [key: string]: any
+}

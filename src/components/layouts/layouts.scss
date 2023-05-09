@@ -1,0 +1,4 @@
+.layouts-wrapper {
+  @apply w-screen h-screen overflow-x-hidden overflow-y-auto;
+  @apply flex flex-col gap-10;
+}

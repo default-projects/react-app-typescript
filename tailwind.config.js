@@ -48,9 +48,6 @@ module.exports = {
       colors: {
         black: '#000000',
         white: '#ffffff',
-        bgColor: '#3d4a54',
-        playerBg: '#545454',
-        btnBg: '#a3a3a3',
       },
     },
 
